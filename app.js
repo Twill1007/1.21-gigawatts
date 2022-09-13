@@ -8,11 +8,12 @@ mongoose.connect('mongodb://localhost:27017/yelp-camp', {
     useUnifiedTopology: true
 });
 
-const db = mongoose.connect;
+const db = mongoose.connection;
 db.on('error', console.error.bind(console, 'connection error:'));
 db.once('open', () => {
     console.log('Databse connected');
 });
+
 
 const app = express();
 
