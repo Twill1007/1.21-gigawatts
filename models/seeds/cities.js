@@ -8981,15 +8981,7 @@ module.exports = [
         rank: "998",
         state: "Utah",
     },
-    {
-        city: "Beloit",
-        growth_from_2000_to_2013: "2.9%",
-        latitude: 42.5083482,
-        longitude: -89.03177649999999,
-        population: "36888",
-        rank: "999",
-        state: "Wisconsin",
-    },
+
     {
         city: "Panama City",
         growth_from_2000_to_2013: "0.1%",
