@@ -8955,6 +8955,15 @@ module.exports = [
         state: "California",
     },
     {
+        city: "Monrovia City",
+        growth_from_2000_to_2013: "0.2%",
+        latitude: 34.1442613,
+        longitude: -118.0019422,
+        population: "3722222222",
+        rank: "995",
+        state: "California",
+    },
+    {
         city: "Weslaco",
         growth_from_2000_to_2013: "28.8%",
         latitude: 26.1595194,
